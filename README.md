@@ -1,18 +1,29 @@
-# Tailwind CSS Full Course 2023 | Build and Deploy a Nike Website
-![Nike Landing Page](https://i.ibb.co/pxzMGb4/Thumbnail-2.png)
+# Nike
 
-## Tailwind CSS Starter Kit
-📚 https://resource.jsmastery.pro/tailwind-starter-kit
+![Project Hero Image](https://res.cloudinary.com/dktfpedhu/image/upload/v1693645310/nike_noilcz.jpg)
 
-## Summary
-Dive into the world of Tailwind CSS, build a Nike website, and join top-tier organizations like OpenAI, Shopify, and NASA in building stunning apps effortlessly.
+[View Demo](https://nike-page-red.vercel.app)
 
-In this course, you'll:
-- Learn how to make the most out of Tailwind CSS
-- Fully understand how Tailwind works behind-the-scenes
-- Follow all of Tailwind's best practices
-- Put all of your newly gained Tailwind skills to the test by building a beautiful Nike landing page
-  
-## Want to land your dream programming job in 3 - 6 months?
-⭐ JSM Masterclass Experience - https://jsmastery.pro/masterclass
-Become a Software Engineer. Guaranteed.
+## Introduction
+
+
+Welcome to the Nike homepage, crafted with the power of Tailwind CSS. Experience the world of sports and style in this dynamic and visually appealing web environment. Discover the latest trends, explore top products, and immerse yourself in the essence of Nike's iconic brand—all with the seamless design of Tailwind CSS.
+
+## Technologies Used
+
+<div style="background-color: #264de4; color: #fff; padding: 10px; margin: 5px; display: inline-block;">React</div>
+<div style="background-color: #61dbfb; color: #fff; padding: 10px; margin: 5px; display: inline-block;">Tailwind CSS</div>
+<div style="background-color: #f27456; color: #fff; padding: 10px; margin: 5px; display: inline-block;">SCSS</div>
+
+
+## Installation
+
+Here are the installation steps
+
+```shell
+# installation commands
+git clone https://github.com/rejisterjack/nike-page.git
+cd nike-page
+npm i --legacy-peer-deps
+npm run dev
+
